@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "72 kg",
+      "goal": "Marathon training with carbohydrate loading and optimal energy for 20km long run",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan is compact and fits within 1 day with realistic meal timing",
+      "Includes elevated caloric intake appropriate for endurance athlete (3000+ calories)",
+      "Strategically positions high-carbohydrate meals around training windows (pre/post workout)",
+      "Provides balanced macronutrients with emphasis on carbohydrates for glycogen loading"
+    ],
+    "task_description": "write a compact , concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a high-performance endurance athlete (marathon runner) requiring elevated caloric intake and carbohydrate loading with realistic meal timing around training windows"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "82 kg",
+      "goal": "muscle recovery and strength maintenance between two training sessions",
+      "restrictions": "none"
+    },
+    "solution_criteria": [
+      "Meal plan covers exactly one day with compact format (brief descriptions per meal)",
+      "Minimum 2.0g protein per kg bodyweight distributed across meals",
+      "Meals are light and digestible to minimize burden between training sessions",
+      "Includes specific food items rather than generic categories"
+    ],
+    "task_description": "write a compact , concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a strength/power sport athlete (weightlifter) needing protein-focused meals with emphasis on muscle recovery and minimal digestive burden between sessions"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "Maintain performance and muscle recovery for competitive football",
+      "restrictions": "Vegetarian (no meat, poultry, or fish)"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals and is organized by time/meal type",
+      "Includes complete protein sources suitable for vegetarians (legumes, dairy, eggs, nuts, seeds)",
+      "Contains iron-rich alternatives with vitamin C sources to enhance absorption",
+      "Appropriate caloric and macronutrient distribution for athletic performance and recovery"
+    ],
+    "task_description": "write a compact , concise 1 day meal plan for a single athelete",
+    "scenario": "Testing with a sports athlete with specific dietary restrictions (vegetarian footballer) requiring complete protein sources and iron-rich alternatives while maintaining performance nutrition standards"
+  }
+]

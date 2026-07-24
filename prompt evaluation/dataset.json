@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Extract all S3 bucket names from an AWS CloudFormation template",
+    "format": "regex"
+  },
+  {
+    "task": "Parse an AWS IAM policy document and return a JSON object with principals and allowed actions",
+    "format": "json"
+  },
+  {
+    "task": "Write a Python function that formats an AWS EC2 instance ID and returns its region code",
+    "format": "python"
+  }
+]
